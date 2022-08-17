@@ -111,7 +111,7 @@ class SettingsApi {
 }
 
 // ######
-// SAMPLE 3 - WP PLUGIN SETUP
+// SAMPLE 3 - WP PLUGIN INIT
 // ######
 
 /**
